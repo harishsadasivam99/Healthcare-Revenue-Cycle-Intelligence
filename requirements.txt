@@ -1,4 +1,5 @@
 pandas
 numpy
 faker
-
+sqlalchemy
+psycopg2-binary
